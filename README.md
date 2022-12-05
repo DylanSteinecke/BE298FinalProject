@@ -1,0 +1,4 @@
+# BE298FinalProject
+
+
+Drug mechanisms are incompletely understood, disease mechanisms are incompletely understood, and drugs are needed to treat diseases. By better understanding these mechanisms, disease treatments can be better informed. Here, we used PathFX, a computational approach to predict drug mechanisms. We compared the proportion of mitochondrial proteins in drug-interacting proteins (overrepresented), drug mechanisms (underrepresented), and previously known disease-associated proteins (overrepresented). We found that mitochondrial proteins are represented at different rates in each of these groups, suggesting imperfect correspondence between drug and disease mechanisms related to the mitochondria in cardiovascular disease. This can be further applied to understand the proteins involved in drug mechanisms and diseases.
